@@ -6,7 +6,7 @@ if len(sys.argv) > 1:
 else:
   input_filename = "dialogue.py"
 output_filename = sys.argv[2];
-f_in = open(input_filename,"r");
+f_in = open(input_filename,"r",encoding="utf-8");
 f = open(output_filename,"w")
 
 s_start  = 0
@@ -35,7 +35,7 @@ state_string = ""
 dialogue_string = ""
 
 f.write("// This file was automatically generated! Don't touch it!\n")
-print output_filename.split(".")[0]
+print(output_filename.split(".")[0])
 f.write(
 "package data{\n\
 public class "+output_filename.split(".")[0]+" {\n")
