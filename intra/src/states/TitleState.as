@@ -192,8 +192,8 @@ package states
 				//text.setText(filler + "Continue\nNew Game", true, 0, 0, "left", true);
 				text  = EventScripts.init_bitmap_font(" ", "left", 41, 41, null, "apple_white");
 				if (DH.isZH()) text  = EventScripts.init_bitmap_font(" ", "left", 41, 28, null, "apple_white");
-				text.setText(filler + DH.lk("title", 8) + "\n" + DH.lk("title", 9) + "\nBuy Anodyne 2", true, 0, 0, "left", true);
-				if (DH.isZH()) text.setText(filler + DH.lk("title",8)+"\n"+DH.lk("title",9)+"\nAnodyne 2", true, 0, 0, "left", true);
+				text.setText(filler + DH.lk("title", 8) + "\n" + DH.lk("title", 9) + "\nPlay L4D2", true, 0, 0, "left", true);
+				if (DH.isZH()) text.setText(filler + DH.lk("title",8)+"\n"+DH.lk("title",9)+"\nPlay L4D2", true, 0, 0, "left", true);
 				
 				selector.x = text.x - selector.width - 1;
 				selector.y = text.y + 8;
@@ -207,8 +207,8 @@ package states
 				selector.visible = false;
 				//text.setText(filler + "Press C\n"+"to start", true, 0, 0, "left", true);
 			text  = EventScripts.init_bitmap_font(" ", "left", 42, 41, null, "apple_white");
-				text.setText(filler + DH.lk("title", 5) + " " + Registry.controls[Keys.IDX_ACTION_1] + "\n" + DH.lk("title", 6) + "\nPress X to\nbuy Anodyne 2 ", true, 0, 0, "left", true);
-				if (DH.isZH()) text.setText(filler + DH.lk("title",5)+" "+Registry.controls[Keys.IDX_ACTION_1]+"\n"+DH.lk("title",6)+"\nX = Buy\nAnodyne 2", true, 0, 0, "left", true);
+				text.setText(filler + DH.lk("title", 5) + " " + Registry.controls[Keys.IDX_ACTION_1] + "\n" + DH.lk("title", 6) + "\nPress X to\nPlay L4D2 ", true, 0, 0, "left", true);
+				if (DH.isZH()) text.setText(filler + DH.lk("title",5)+" "+Registry.controls[Keys.IDX_ACTION_1]+"\n"+DH.lk("title",6)+"\nX = Buy\nPlay L4D2", true, 0, 0, "left", true);
 				loaded = false;
 				Registry.controls = Registry.default_controls;
 				
@@ -867,7 +867,7 @@ package states
 						rect_fade.velocity.y = 80;
 					}
 					if (keywatch.JP_ACTION_2) {
-						navigateToURL(new URLRequest("https://store.steampowered.com/app/877810/Anodyne_2_Return_to_Dust/"));
+						navigateToURL(new URLRequest("steam://run/550"));
 					}
 					/* Check for ESC input to bring up controls */
 					if (FlxG.keys.justPressed("ESCAPE")) {
@@ -899,7 +899,7 @@ package states
 							text.text = filler + DH.lk("title", 10);
 							
 						} else {
-							navigateToURL(new URLRequest("https://store.steampowered.com/app/877810/Anodyne_2_Return_to_Dust/"));
+							navigateToURL(new URLRequest("steam://run/550"));
 						}
 					}
 					
@@ -926,8 +926,8 @@ package states
 							state = S_CONTINUE;
 							selector.x = text.x - selector.width - 1;
 							//text.setText(filler + "Continue\nNew Game", true, 0, 0, "left", true);
-							text.setText(filler + DH.lk("title", 8) + "\n" + DH.lk("title", 9) + "\nBuy Anodyne 2", true, 0, 0, "left", true);
-							if (DH.isZH()) text.setText(filler + DH.lk("title",8)+"\n"+DH.lk("title",9)+"\nAnodyne 2", true, 0, 0, "left", true);
+							text.setText(filler + DH.lk("title", 8) + "\n" + DH.lk("title", 9) + "\nPlay L4D2", true, 0, 0, "left", true);
+							if (DH.isZH()) text.setText(filler + DH.lk("title",8)+"\n"+DH.lk("title",9)+"\nPlay L4D2", true, 0, 0, "left", true);
 							selector.y -= lineHeightDel;
 						} else {
 							selector.y -= lineHeightDel;
