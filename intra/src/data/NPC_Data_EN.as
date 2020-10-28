@@ -92,21 +92,21 @@ public static var briar:Object =
 	GO: {
 		before_fight: {
 			dialogue: new Array(
-				"Briar: I‚Äôm tired, Young.  I‚Äôm tired of all of these cycles.  I feel like I‚Äôm living the same dream, the same nightmare over and over again.",
-				"Briar: ...",
-				"Briar: It‚Äôs not going to change, Young.  This is all we‚Äôll ever be.")
+				"Wayne: Iím tired, Jon.  Iím tired of all of these cycles.  I feel like Iím living the same dream, the same nightmare over and over again.",
+				"Wayne: ...",
+				"Wayne: Itís not going to change, Jon.  This is all weíll ever be.")
 		}
 ,
 		after_fight: {
 			dialogue: new Array(
-				"Briar:  Goodbye, Young.")
+				"Wayne:  Goodbye, Jon.")
 		}
 ,
 		final: {
 			dialogue: new Array(
-				"Briar: Dude, Young.",
-				"Briar: Kick your feet.  Move your arms.  Jeez, you wouldn‚Äôt last a minute without me!",
-				"Briar: Well, come on, let‚Äôs go get a sandwich or something.",
+				"Wayne: Dude, Jon.",
+				"Wayne: Kick your feet.  Move your arms.  Jeez, you wouldnít last a minute without me!",
+				"Wayne: Well, come on, letís go get a sandwich or something.",
 				"Sage: You... you did adequately.  Until we meet again.")
 		}
 	}
@@ -146,7 +146,7 @@ public static var sage:Object =
 	BLANK: {
 		intro: {
 			dialogue: new Array(
-				"Mysterious voice: Hello? ...Young?  ^HEY!  ... oh, you can hear me?  Good, now listen.  You are about to wake up.  You will use the arrow keys to move around.",
+				"Mysterious voice: Hello? ...Jon?  ^HEY!  ... oh, you can hear me?  Good, now listen.  You are about to wake up.  You will use the arrow keys to move around.",
 				"You will press the \'",
 				"\' key to interact with objects and people around you.",
 				"And you will press the \'",
@@ -157,48 +157,48 @@ public static var sage:Object =
 	GO: {
 		posthappy_sage: {
 			dialogue: new Array(
-				"Young...  I just wanted to fix everything for you.",
+				"Jon...  I just wanted to fix everything for you.",
 				"I hope... I hope you can do better than me.")
 		}
 ,
 		posthappy_mitra: {
 			dialogue: new Array(
-				"Good luck, Young.",
+				"Good luck, Jon.",
 				"Sage is right, in a way.  I want everything to be nice and work out perfectly, and sometimes that makes me ignore reality.",
-				"I don‚Äôt know what you need to do to help The Briar.  I don‚Äôt understand how this world works or why everything seems so strange.  But I do want to be your friend, Young.",
-				"You are fighting, Young.  You are trying to understand.  I hope you can work things out.")
+				"I donít know what you need to do to help Wayne.  I donít understand how this world works or why everything seems so strange.  But I do want to be your friend, Jon.",
+				"You are fighting, Jon.  You are trying to understand.  I hope you can work things out.")
 		}
 ,
 		one: {
 			dialogue: new Array(
-				"Sage: Young... this is my final warning... wait, who is that?",
-				"Mitra: My name is Mitra, and this is my bike, Wares!",
-				"Sage: I didn‚Äôt ask the name of your bicycle, what are you doing here?  I don‚Äôt remember you.",
-				"Mitra: I‚Äôm here to help my friend, Young..",
-				"Sage: Young doesn‚Äôt have friends.  Young doesn‚Äôt even have Briar.  And if you‚Äôre egging him on, then I want you out of my world!",
-				"Mitra: What do you mean?  Wares and I--",
+				"Sage: Jon... this is my final warning... wait, who is that?",
+				"James: My name is James, and this is my bike, Wares!",
+				"Sage: I didnít ask the name of your bicycle, what are you doing here?  I donít remember you.",
+				"James: Iím here to help my friend, Jon..",
+				"Sage: Jon doesnít have friends.  Jon doesnít even have Wayne.  And if youíre egging him on, then I want you out of my world!",
+				"James: What do you mean?  Wares and I--",
 				"Sage: SHUT UP ABOUT YOUR STUPID BICYCLE!!!")
 		}
 ,
 		hit: {
 			dialogue: new Array(
 				"Sage: ...",
-				"Mitra: Young!  Are you okay?  That was a beautiful thing you just did... You go on and finish this final punk-ass area!  We know you can do it!",
-				"Mitra: Wares!!!",
-				"Mitra: Wares...",
-				"Mitra: Look, mysterious hooded character, I don‚Äôt know who you think you are, but why don‚Äôt you just leave us alone?",
-				"Sage: You think you‚Äôre Young‚Äôs friend because you‚Äôll lie to him and tell him that deep down he‚Äôs just perfect and everything will work out.  Well, if that‚Äôs what you want, FINE.  Get out of my face, Young.",
+				"James: Jon!  Are you okay?  That was a beautiful thing you just did... You go on and finish this final punk-ass area!  We know you can do it!",
+				"James: Wares!!!",
+				"James: Wares...",
+				"James: Look, mysterious hooded character, I donít know who you think you are, but why donít you just leave us alone?",
+				"Sage: You think youíre Jonís friend because youíll lie to him and tell him that deep down heís just perfect and everything will work out.  Well, if thatís what you want, FINE.  Get out of my face, Jon.",
 				"Sage: Go talk to your \"friend\".",
-				"Mitra: We're just doing the best we can...")
+				"James: We're just doing the best we can...")
 		}
 	}
 	,
 	NEXUS: {
 		enter_nexus: {
 			dialogue: new Array(
-				"Cloaked Man: Well, it‚Äôs about time.  Er...^I mean...^ Greetings, Young!  I am Sage, the Village Elder.  You have been summoned here because The Darkness has spread across The Land.  The Darkness seeks The Legendary Briar, to use The Briar‚Äôs power for evil.  You must reach it first. You must protect The Briar.",
+				"Cloaked Man: Well, itís about time.  Er...^I mean...^ Greetings, Jon!  I am Sage, the Village Elder.  You have been summoned here because The Home Depot has spread across The Land.  The Home Depot seeks Wayne Hamilton, to use his power for evil.  You must reach it first. You must protect Wayne.",
 				"Enter the active portal on your left to begin your quest.",
-				"*Sigh* it doesn‚Äôt bode well that you‚Äôre still dallying about here.  Enter the portal to begin your quest.  The Briar and, by extension, the world are in dire need!",
+				"*Sigh* it doesnít bode well that youíre still dallying about here.  Enter the portal to begin your quest.  Wayne and, by extension, the world are in dire need!",
 				"Just go in the damn door!")
 		}
 ,
@@ -209,40 +209,40 @@ public static var sage:Object =
 ,
 		after_bed: {
 			dialogue: new Array(
-				"Continue on, Young. That key you have found, there may be others like it - seek them out.",
-				"Travel to the far reaches of The Land, Young. This is the only way to stop The Darkness.")
+				"Continue on, Jon. That key you have found, there may be others like it - seek them out.",
+				"Travel to the far reaches of The Land, Jon. This is the only way to stop The Home Depot.")
 		}
 ,
 		before_windmill: {
 			dialogue: new Array(
-				"Take those three keys, Young, and unlock the way to the deeper realms of The Land.")
+				"Take those three keys, Jon, and unlock the way to the deeper realms of The Land.")
 		}
 ,
 		after_windmill: {
 			dialogue: new Array(
-				"You have done what I have asked, Young, though there is still much to be done.  Perhaps if you explore the deeper realms of The Land you will come to greater realizations... perhaps you'll be worth anything to Briar.")
+				"You have done what I have asked, Jon, though there is still much to be done.  Perhaps if you explore the deeper realms of The Land you will come to greater realizations... perhaps you'll be worth anything to Wayne.")
 		}
 ,
 		all_card_first: {
 			dialogue: new Array(
-				"Good work, Young. You have found all of the cards in one area of The Land, and as a result, a gem has appeared on top of the area's portal.")
+				"Good work, Jon. You have found all of the cards in one area of The Land, and as a result, a gem has appeared on top of the area's portal.")
 		}
 	}
 	,
 	OVERWORLD: {
 		bedroom_entrance: {
 			dialogue: new Array(
-				"Sage: Soon your skills will be put to the test, Young.  In order to make it through this temple alive, you will need both strength and intellect.  And I assume that by this point you have found a weapon?",
+				"Sage: Soon your skills will be put to the test, Jon.  In order to make it through this temple alive, you will need both strength and intellect.  And I assume that by this point you have found a weapon?",
 				"Wha-??  ... I-I mean...  Yes of course... a broom!  Er... just as was foretold in The Legend...",
 				"*grumble grumble* ... of all the incompetent--Hey!  What are you still standing here for?",
-				"Keep your wits about you, Young.")
+				"Keep your wits about you, Jon.")
 		}
 	}
 	,
 	BEDROOM: {
 		after_boss: {
 			dialogue: new Array(
-				"Sage: At this point, you are still weak. If you hope to protect The Briar from The Darkness, you must face your fears.  The card you will find in this chest, and others like it, are symbols of your growth, so acquiring them is absolutely vital to your quest.",
+				"Sage: At this point, you are still weak. If you hope to protect Wayne from The Home Depot, you must face your fears.  The card you will find in this chest, and others like it, are symbols of your growth, so acquiring them is absolutely vital to your quest.",
 				"That key will also play an important role in your quest. You must seek out other keys, as well.  Select the map on the menu screen to teleport back to the temple's entrance, and continue your heroic quest.",
 				"Travel East and South through the temple grounds... you will find a use for that key.",
 				"What, do you want a piggy back ride to the gate or something??")
@@ -252,32 +252,32 @@ public static var sage:Object =
 	TERMINAL: {
 		before_fight: {
 			dialogue: new Array(
-				"Sage: Why won‚Äôt you listen to me?!  If you rush into this like an idiot, you‚Äôll only endanger The Briar, The Land, and everything I‚Äôve worked for!  I‚Äôm sorry Young, but if you won‚Äôt listen to me, then I‚Äôll have to convince you another way...")
+				"Sage: Why wonít you listen to me?!  If you rush into this like an idiot, youíll only endanger Wayne, The Land, and everything Iíve worked for!  Iím sorry Jon, but if you wonít listen to me, then Iíll have to convince you another way...")
 		}
 ,
 		after_fight: {
 			dialogue: new Array(
-				"Sage: Young...  This is not how I mean things to be... I meant for you to become a better person.  I meant for you to be able to help The Briar.  But all of this is just a silly game...  I can‚Äôt stop you from reaching The Briar.  Just remember what I said when it all goes to hell.")
+				"Sage: Jon...  This is not how I mean things to be... I meant for you to become a better person.  I meant for you to be able to help Wayne.  But all of this is just a silly game...  I canít stop you from reaching Wayne.  Just remember what I said when it all goes to hell.")
 		}
 ,
 		entrance: {
 			dialogue: new Array(
-				"Sage: Hello, Young.  When you have become a stronger and wiser individual, this path will lead you to The Briar.",
-				"Sage: You‚Äôre not ready Young, first you must face more trials in The Land.",
-				"Sage: You have made progress, Young, but you must collect at least 36 cards to pass this gate.")
+				"Sage: Hello, Jon.  When you have become a stronger and wiser individual, this path will lead you to Wayne.",
+				"Sage: Youíre not ready Jon, first you must face more trials in The Land.",
+				"Sage: You have made progress, Jon, but you must collect at least 36 cards to pass this gate.")
 		}
 ,
 		etc: {
 			dialogue: new Array(
 				"Sage: Oh... uh... you have at least 36 cards?  But I am not certain that you are ready for the true test.  In fact, look, we were reading this gate wrong, you actually need...\n...\n........\n92 cards to pass this gate, not 36!",
-				"Sage: Young, don‚Äôt go there, you‚Äôre not ready yet!  Think of The Briar!  The Land!  All of this will be for nothing if you are not ready!")
+				"Sage: Jon, donít go there, youíre not ready yet!  Think of Wayne!  The Land!  All of this will be for nothing if you are not ready!")
 		}
 	}
 	,
 	REDCAVE: {
 		one: {
 			dialogue: new Array(
-				"Sage: Excellent work, Young.  You had to conquer not only this monster but also your own fears to prevail!!!",
+				"Sage: Excellent work, Jon.  You had to conquer not only this monster but also your own fears to prevail!!!",
 				"Sage: Of course, you still have a long way to go.  Have you been exploring The Land?")
 		}
 	}
@@ -285,8 +285,8 @@ public static var sage:Object =
 	CROWD: {
 		one: {
 			dialogue: new Array(
-				"Sage: Well done, Young. However, there are still trials to face. Do not let your guard down.",
-				"Sage: Have you found all of the keys yet, Young? If not, go to the beach.")
+				"Sage: Well done, Jon. However, there are still trials to face. Do not let your guard down.",
+				"Sage: Have you found all of the keys yet, Jon? If not, go to the beach.")
 		}
 	}
 };
@@ -497,25 +497,25 @@ public static var happy_npc:Object =
 	HAPPY: {
 		beautiful: {
 			dialogue: new Array(
-				"You did it, Young!  You defeated The Darkness!  Look at this place!  It‚Äôs beautiful!",
+				"You did it, Jon!  You defeated The Home Depot!  Look at this place!  Itís beautiful!",
 				"So beautiful...")
 		}
 ,
 		dump: {
 			dialogue: new Array(
-				"Oh thank god you‚Äôre here!  I was worried you‚Äôd get stuck in that snowy dump... It‚Äôs fucking depressing over there!  Ha!",
+				"Oh thank god youíre here!  I was worried youíd get stuck in that snowy dump... Itís fucking depressing over there!  Ha!",
 				"Hahaha. Hahahahaha. HAHAHAHAHAHAHA!")
 		}
 ,
 		drink: {
 			dialogue: new Array(
-				"Hey sexy, I‚Äôll buy you a drink!",
+				"Hey sexy, Iíll buy you a drink!",
 				"Have another drink, you little shit!  Hahaha!")
 		}
 ,
 		hot: {
 			dialogue: new Array(
-				"Fuck, it‚Äôs hot here...  I‚Äôm so hot... and sweatyyy...",
+				"Fuck, itís hot here...  Iím so hot... and sweatyyy...",
 				"Damn, working out makes me horny!")
 		}
 ,
@@ -527,7 +527,7 @@ public static var happy_npc:Object =
 ,
 		briar: {
 			dialogue: new Array(
-				"???: Young... You finally maDe IT!  YuO SsavED ME!  nOE EvERtyhinG WILL bE OKYA AGaIN!!!!!")
+				"???: Jon... You finally maDe IT!  YuO SsavED ME!  nOE EvERtyhinG WILL bE OKYA AGaIN!!!!!")
 		}
 	}
 };
@@ -591,33 +591,33 @@ public static var mitra:Object =
 		initial_overworld: {
 			dialogue: new Array(
 				"HEADS UP!",
-				"Sorry about that... I was going way too fast.  Oh, I‚Äôve never seen you before!  Are you a fellow traveller? ... Huh?  You want to protect the Briar from the Evil Darkness?  ...  ^Well... I have no clue what you‚Äôre talking about, but sounds cool, I guess!",
-				"I‚Äôve just been out and about, peddling my wares.... What?  No, I‚Äôm not a salesman.  Wares is the name of my bicycle!",
-				"Well, maybe we‚Äôll run into each other again sometime.  I‚Äôll let you know if I hear anything about that Briar.")
+				"Sorry about that... I was going way too fast.  I almost crushed my most handsome boi! ... Huh?  You want to protect Wayne from the Evil Home Depot?  ...  ^Nice.",
+				"Iíve just been out and about, peddling my wares.... What?  No, Iím not a salesman.  Wares is the name of my bicycle!",
+				"Well, maybe weíll run into each other again sometime.  Iíll text Wayne and let you know if I hear anything. Don't get your hopes up though. He doesn't like anyone, and especially not me.")
 		}
 	}
 	,
 	BLUE: {
 		one: {
 			dialogue: new Array(
-				"HEADS UP!  All right Wares, let‚Äôs do this!",
+				"HEADS UP!  All right Wares, letís do this!",
 				"Annnd presto!",
-				"Keep going, Young, we‚Äôve got your back!")
+				"Keep going, Jon, weíve got your back!")
 		}
 	}
 	,
 	FIELDS: {
 		init: {
 			dialogue: new Array(
-				"Remember me?  I forgot to introduce myself the last time, I only introduced my bicycle, Wares.  My name is Mitra.",
-				"Remember me?  I forgot to introduce myself the last time, I‚Äôm Mitra, and this fine young bicycle is named Wares.",
-				"Mitra: So how have you been, Young?  ...what?  How did I know your name?  You think it‚Äôs weird, eh?  Well, I saw it on the back of your hoodie.",
-				"Mitra: See you around, Young!")
+				"Remember me?  I forgot to introduce myself the last time, I only introduced my bicycle, Wares.  My name is James.",
+				"Remember me?  I forgot to introduce myself the last time, Iím James, and this fine young bicycle is named Wares.",
+				"James: So how have you been, Jon?  You wanna play some games later tonight with Kevin?^ Actually forget about Kevin, he's a stinky furry and I don't like him anymore. Why don't you push him into the Ocean next time you see him.",
+				"James: See you around, Jon!")
 		}
 ,
 		quest_event: {
 			dialogue: new Array(
-				"Mitra: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.")
+				"James: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.")
 		}
 ,
 		game_hints: {
@@ -627,61 +627,61 @@ public static var mitra:Object =
 				"Oh, you're lost? Have you looked in the forest to the east?  That key you have - it looks like it comes in a set. Maybe you need to find others?",
 				"Look at all of those keys! I think I saw some gates to the southeast. Maybe you could use them there?",
 				"Hey, I saw that you turned on the wind turbine!  Do you know if it had any effect on The Land?",
-				"Hey Young.  Wow!  You've really been racking up those cards!  Have you figured out what they're for yet?  Seems like you could really cash in with all those!",
-				"What is that new broom attachment you have?  It lets you alter the structure of the world...?  Honestly, that is really scary Young.  I'm glad it doesn't seem to work anywhere, perhaps just in the deepest, strangest recesses of the Land",
-				"How are my jump shoes working for you?  Pretty nifty, eh?  I‚Äôm loving my new bike shoes.  They make Wares and I an even better team!",
-				"Cool, Young, you found another key!  Wares likes the color!  Have you found a place to use them yet?")
+				"Hey Jon.  Wow!  You've really been racking up those cards!  Have you figured out what they're for yet?  Seems like you could really cash in with all those!",
+				"What is that new broom attachment you have?  It lets you alter the structure of the world...?  Honestly, that is really scary Jon.  I'm glad it doesn't seem to work anywhere, perhaps just in the deepest, strangest recesses of the Land",
+				"How are my jump shoes working for you?  Pretty nifty, eh?  Iím loving my new bike shoes.  They make Wares and I an even better team!",
+				"Cool, Jon, you found another key!  Wares likes the color!  Have you found a place to use them yet?")
 		}
 ,
 		card_hints: {
 			dialogue: new Array(
-				"Mitra: Hey Young, looking for a card?\nHave you checked around the area of the Seeing One's temple?",
-				"Mitra: Hey Young, looking for a card?\nI heard there's a maze around the back exit of the Seeing One's temple.",
-				"Mitra: Hey Young, looking for a card?\nYou might find something near the Seeing One's lair.",
-				"Mitra: Hey Young, looking for a card?\nThere was a room filled with enemies in the Seeing One's temple, right?",
-				"Mitra: Hey Young, looking for a card?\nHave you looked all over the Seeing One's temple?",
-				"Mitra: Hey Young, looking for a card?\nTry looking in the vestigial area near the back exit of the Seeing One's lair.",
-				"Mitra: Hey Young, looking for a card?\nMaybe your neighbor knows something about it.",
-				"Mitra: Hey Young, looking for a card?\nI know the guy in your apartment was hiding something...",
-				"Mitra: Hey Young, looking for a card?\nSomewhere near the entrance of your apartment...look around there!",
-				"Mitra: Hey Young, looking for a card?\nHave you looked *everywhere* in your apartment?",
-				"Mitra: Hey Young, looking for a card?\nJust south of here is an island! I haven't gone there, but you should check it out.",
-				"Mitra: Hey Young, looking for a card?\nThere's a lot of stuff to be found if you follow the rivers. Look around!",
-				"Mitra: Hey Young, looking for a card?\nI know someone left a card near the windmill.",
-				"Mitra: Hey Young, looking for a card?\nLook around the rivers in the forest...",
-				"Mitra: Hey Young, looking for a card?\nTry poking around the base of the mountains.",
-				"Mitra: Hey Young, looking for a card?\nTry going to the summit of the mountains.",
-				"Mitra: Hey Young, looking for a card?\nThe far end of the beach may hold something.",
-				"Mitra: Hey Young, looking for a card?\nTake a walk in the crimson woods.",
-				"Mitra: Hey Young, looking for a card?\nThere were a lot of locked doors in one of those red caves, right?",
-				"Mitra: Hey Young, looking for a card?\nTry looking around the northern red cave - follow the river to its end!",
-				"Mitra: Hey Young, looking for a card?\nGo to the northern red cave, check out the source of the river!",
-				"Mitra: Hey Young, looking for a card?\nHmm...did you look all over that dark labyrinth?",
-				"Mitra: Hey Young, looking for a card?\nI remember there was a pretty grim looking path of flamethrowers somewhere. Something's gotta be at the end of it!",
-				"Mitra: Hey Young, looking for a card?\nThose circus folks have got to be hiding something. Did you look everywhere?",
-				"Mitra: Hey Young, looking for a card?\nHave you looked around the area on the perimeter of that couple's large pit?",
-				"Mitra: Hey Young, looking for a card?\nThere's this couple that like to hang around a pit. They must be hiding something.",
-				"Mitra: Hey Young, looking for a card?\nSometimes there are things hidden across chasms - especially in mountain caves!",
-				"Mitra: Hey Young, looking for a card?\nHave you scoured the highest parts of the mountain cave?",
-				"Mitra: Hey Young, looking for a card?\nIs there anything in the depths of that mountain cave?",
-				"Mitra: Hey Young, looking for a card?\nThat colorful cube in that weird place - it has probably got something!",
-				"Mitra: Hey Young, looking for a card?\nHave you talked to that grayscale cube in that wild-lookin' area? Maybe it knows something.",
-				"Mitra: Hey Young, looking for a card?\nThe top floor of that hotel is a little run down, but it's gotta have something!",
-				"Mitra: Hey Young, looking for a card?\nDid you walk into all of the rooms on the 3rd floor of the hotel?",
-				"Mitra: Hey Young, looking for a card?\nI bet someone left something lying around the 2nd floor of the hotel.",
-				"Mitra: Hey Young, looking for a card?\nThe owner of the hotel might have left something for you!",
-				"Mitra: Hey Young, looking for a card?\nThose broken bridges to the northwest...look around there!",
-				"...What? You haven't found *any* cards? Man, Young, that's crazy! Sometimes in life you just need to be adventurous, open a few boxes, you know?")
+				"James: Hey Jon, looking for a card?\nHave you checked around the area of the Seeing One's temple?",
+				"James: Hey Jon, looking for a card?\nI heard there's a maze around the back exit of the Seeing One's temple.",
+				"James: Hey Jon, looking for a card?\nYou might find something near the Seeing One's lair.",
+				"James: Hey Jon, looking for a card?\nThere was a room filled with enemies in the Seeing One's temple, right?",
+				"James: Hey Jon, looking for a card?\nHave you looked all over the Seeing One's temple?",
+				"James: Hey Jon, looking for a card?\nTry looking in the vestigial area near the back exit of the Seeing One's lair.",
+				"James: Hey Jon, looking for a card?\nMaybe your neighbor knows something about it.",
+				"James: Hey Jon, looking for a card?\nI know the guy in your apartment was hiding something...",
+				"James: Hey Jon, looking for a card?\nSomewhere near the entrance of your apartment...look around there!",
+				"James: Hey Jon, looking for a card?\nHave you looked *everywhere* in your apartment?",
+				"James: Hey Jon, looking for a card?\nJust south of here is an island! I haven't gone there, but you should check it out.",
+				"James: Hey Jon, looking for a card?\nThere's a lot of stuff to be found if you follow the rivers. Look around!",
+				"James: Hey Jon, looking for a card?\nI know someone left a card near the windmill.",
+				"James: Hey Jon, looking for a card?\nLook around the rivers in the forest...",
+				"James: Hey Jon, looking for a card?\nTry poking around the base of the mountains.",
+				"James: Hey Jon, looking for a card?\nTry going to the summit of the mountains.",
+				"James: Hey Jon, looking for a card?\nThe far end of the beach may hold something.",
+				"James: Hey Jon, looking for a card?\nTake a walk in the crimson woods.",
+				"James: Hey Jon, looking for a card?\nThere were a lot of locked doors in one of those red caves, right?",
+				"James: Hey Jon, looking for a card?\nTry looking around the northern red cave - follow the river to its end!",
+				"James: Hey Jon, looking for a card?\nGo to the northern red cave, check out the source of the river!",
+				"James: Hey Jon, looking for a card?\nHmm...did you look all over that dark labyrinth?",
+				"James: Hey Jon, looking for a card?\nWell fuck you I ain't telling you where it is!",
+				"James: Hey Jon, looking for a card?\nWell fuck you I ain't telling you where it is!",
+				"James: Hey Jon, looking for a card?\nHave you looked around the area on the perimeter of that couple's large pit?",
+				"James: Hey Jon, looking for a card?\nThere's this couple that like to hang around a pit. They must be hiding something.",
+				"James: Hey Jon, looking for a card?\nSometimes there are things hidden across chasms - especially in mountain caves!",
+				"James: Hey Jon, looking for a card?\nHave you scoured the highest parts of the mountain cave?",
+				"James: Hey Jon, looking for a card?\nIs there anything in the depths of that mountain cave?",
+				"James: Hey Jon, looking for a card?\nThat colorful cube in that weird place - it has probably got something!",
+				"James: Hey Jon, looking for a card?\nHave you talked to that grayscale cube in that wild-lookin' area? Maybe it knows something.",
+				"James: Hey Jon, looking for a card?\nThe top floor of that hotel is a little run down, but it's gotta have something!",
+				"James: Hey Jon, looking for a card?\nDid you walk into all of the rooms on the 3rd floor of the hotel?",
+				"James: Hey Jon, looking for a card?\nI bet someone left something lying around the 2nd floor of the hotel.",
+				"James: Hey Jon, looking for a card?\nThe owner of the hotel might have left something for you!",
+				"James: Hey Jon, looking for a card?\nThose broken bridges to the northwest...look around there!",
+				"...What? You haven't found *any* cards? Man, Jon, that's crazy! Sometimes in life you just need to be adventurous, open a few boxes, you know?")
 		}
 ,
 		general_banter: {
 			dialogue: new Array(
 				"Did you find that guy who was looking for something in the mountains?",
-				"Do you know what my bike‚Äôs surname is?  ‚Ä¶Waldo!  Get it?  Wares Waldo!  ...Just kidding, bicycles don‚Äôt have surnames.",
-				"Do you think I should get a U-Lock?  I‚Äôd hate to tie up Wares like that, but you do hear a lot about stolen bikes these days...",
-				"So what is The Briar?  Some sort of ancient artifact from a lost culture?",
-				"I wonder why I haven't heard anything about The Darkness coming.  I guess most people in the land are just caught up in their own daily struggles.",
-				"Hey Young, I just wanted to tell you... your hair is awesome.")
+				"Do you know what my bikeís surname is?  ÖWaldo!  Get it?  Wares Waldo!  ...Just kidding, bicycles donít have surnames.",
+				"Do you think I should get a U-Lock?  Iíd hate to tie up Wares like that, but you do hear a lot about stolen bikes these days...",
+				"What does Home Depot want with Wayne?  Isn't he too short to work there?",
+				"I wonder why I haven't heard anything about The Home Depot coming.  I guess most people in the land are just caught up in their own daily struggles.",
+				"Hey Jon, I just wanted to tell you... your hair is awesome.")
 		}
 	}
 };
@@ -763,7 +763,7 @@ public static var statue:Object =
 	OVERWORLD: {
 		bedroom_entrance: {
 			dialogue: new Array(
-				"Statue: I‚Äôve seen a broom in a legend... it was on the map of a janitor closet.")
+				"Statue: Iíve seen a broom in a legend... it was on the map of a janitor closet.")
 		}
 	}
 	,
@@ -847,18 +847,18 @@ public static var sadbro:Object =
 	OVERWORLD: {
 		initial_forced: {
 			dialogue: new Array(
-				"Edward: Once a man came and installed a mirror in our bathroom.  I was afraid that there was a hidden camera inside of it.  I scoured every inch of the wooden frame, spraying Merphi‚Äôs Oil Soap into the cracks, thinking I might short-circuit the wires.  Of course, I never found anything.",
-				"Edward: This temple is dedicated to The Seeing One.  I don‚Äôt know why I came here, and I‚Äôm too afraid to go inside.")
+				"Edward: Once a man came and installed a mirror in our bathroom.  I was afraid that there was a hidden camera inside of it.  I scoured every inch of the wooden frame, spraying Merphiís Oil Soap into the cracks, thinking I might short-circuit the wires.  Of course, I never found anything.",
+				"Edward: This temple is dedicated to The Seeing One.  I donít know why I came here, and Iím too afraid to go inside.")
 		}
 ,
 		bedroom_not_done: {
 			dialogue: new Array(
-				"Edward: Having trouble?  Well I‚Äôd imagine so.  All you have is a broom, and all brooms can do is move dirt.")
+				"Edward: Having trouble?  Well Iíd imagine so.  All you have is a broom, and all brooms can do is move dirt.")
 		}
 ,
 		bedroom_done: {
 			dialogue: new Array(
-				"Edward: You say you defeated the Seeing One?  Ha.  Don‚Äôt you get that it doesn‚Äôt work that way?  You‚Äôre just spraying oil soap in the cracks.")
+				"Edward: You say you defeated the Seeing One?  Ha.  Donít you get that it doesnít work that way?  Youíre just spraying oil soap in the cracks.")
 		}
 	}
 };
@@ -897,12 +897,12 @@ public static var sun_guy:Object =
 	BEDROOM: {
 		before_fight: {
 			dialogue: new Array(
-				"Oh, isn‚Äôt it cute?  Precious little Young, playing the hero.  But I have witnessed every step you have taken in ‚ÄúThe Land‚Äù, and let me tell you, Young, not everyone here is as honest as me.  Be careful who you trust!")
+				"Oh, isnít it cute?  Precious little Jon, playing the hero.  But I have witnessed every step you have taken in ìThe Landî, and let me tell you, Jon, not everyone here is as honest as me.  Be careful who you trust!")
 		}
 ,
 		after_fight: {
 			dialogue: new Array(
-				"I will be with you, Young, whenever you are alone.  And remember my advice on your little ‚Äúadventure‚Äù.")
+				"I will be with you, Jon, whenever you are alone.  And remember my advice on your little ìadventureî.")
 		}
 	}
 };
@@ -1169,7 +1169,7 @@ public static var rock:Object =
 		one: {
 			dialogue: new Array(
 				"Sometimes if you talk to people multiple times, they have new things to say.",
-				"But not rocks.  Rocks don‚Äôt do that.")
+				"But not rocks.  Rocks donít do that.")
 		}
 ,
 		two: {
@@ -1189,14 +1189,14 @@ public static var rock:Object =
 ,
 		five: {
 			dialogue: new Array(
-				"The computer terminal has an e-mail open. Parts of the screen are broken, so only parts of the message are visible in between black blotches. The e-mail reads: \"Hello, Young! It seems that [...] fiftieth card [...] maybe you shouldn't... [...] worth thinking about! Do you think you're ready? Wake up...\"")
+				"The computer terminal has an e-mail open. Parts of the screen are broken, so only parts of the message are visible in between black blotches. The e-mail reads: \"Hello, Jon! It seems that [...] fiftieth card [...] maybe you shouldn't... [...] worth thinking about! Do you think you're ready? Wake up...\"")
 		}
 	}
 	,
 	OVERWORLD: {
 		one: {
 			dialogue: new Array(
-				"Rock: I‚Äôll bet you‚Äôre reading a rock because you don‚Äôt have any friends.")
+				"Rock: Iíll bet youíre reading a rock because you donít have any friends.")
 		}
 ,
 		two: {
@@ -1224,7 +1224,7 @@ public static var rock:Object =
 	REDCAVE: {
 		one: {
 			dialogue: new Array(
-				"WE ARE BORN INTO THE DECAY OF OUR MOTHER‚ÄôS BODY.")
+				"WE ARE BORN INTO THE DECAY OF OUR MOTHERíS BODY.")
 		}
 ,
 		two: {
@@ -1263,7 +1263,7 @@ public static var rock:Object =
 	SPACE: {
 		one: {
 			dialogue: new Array(
-				"Scribbled in what appears to be permanent marker: Greetings, fellow traveler of SPACE and TIME. You have stepped into a rift far away from the juxtaposing area of YOUNG. You've crossed an OCEAN or two, so to speak. Don't worry about the CONTRAST, you can return to your normal adventure shortly. Do not FEAR this place, though it appears FORBODING and DANGEROUS you will find its denizens to be quite FRIENDLY.\n      -- The MGMT",
+				"Scribbled in what appears to be permanent marker: Greetings, fellow traveler of SPACE and TIME. You have stepped into a rift far away from the juxtaposing area of JON. You've crossed an OCEAN or two, so to speak. Don't worry about the CONTRAST, you can return to your normal adventure shortly. Do not FEAR this place, though it appears FORBODING and DANGEROUS you will find its denizens to be quite FRIENDLY.\n      -- The MGMT",
 				"(Below the message, an engraving:) Here lies ____ (unreadable). He got lost in the woods.",
 				"(Even further below the message:) (just don't go too far south.)")
 		}
@@ -1299,7 +1299,7 @@ public static var rock:Object =
 	SUBURB: {
 		one: {
 			dialogue: new Array(
-				"---YOUNG TOWN---^\nWelcome to Young Town. Please beware of some of the citizens. They do not play well with others...tread carefully. Now, Young Town was founded sometime in the '90s by Mayor Ying as a part of a series of ongoing housing projects, the name chosen as a reflection of Ying's denial of possessing the name Ying, and assertion of possessing the name Young. We'll hope you enjoy your stay.")
+				"---JON TOWN---^\nWelcome to Jon Town. Please beware of some of the citizens. They do not play well with others...tread carefully. Now, Jon Town was founded sometime in the '90s by Mayor Ying as a part of a series of ongoing housing projects, the name chosen as a reflection of Ying's denial of possessing the name Ying, and assertion of possessing the name Jon. We'll hope you enjoy your stay.")
 		}
 ,
 		two: {
@@ -2197,16 +2197,16 @@ public static var forest_npc:Object =
 	FOREST: {
 		bunny: {
 			dialogue: new Array(
-				"Crickson: Hey ya big bully!  I‚Äôm not afraid of you!",
-				"Crickson: Ya big lunkhead!  I won‚Äôt run away!  Not even if you try to slug me a good one!",
-				"Crickson: Yer just a big dumb broomy pants, that‚Äôs what you are!  You oughtta be ashamed of yourself!")
+				"Crickson: Hey ya big bully!  Iím not afraid of you!",
+				"Crickson: Ya big lunkhead!  I wonít run away!  Not even if you try to slug me a good one!",
+				"Crickson: Yer just a big dumb broomy pants, thatís what you are!  You oughtta be ashamed of yourself!")
 		}
 ,
 		thorax: {
 			dialogue: new Array(
-				"Thorax: I am the thorax, I speak for the bees.\n^Their fate is uncertain, it‚Äôs not the bee‚Äôs knees!\n^Some colonies‚Äô workers have all took to flight!\n^These colonies die then, it‚Äôs no pretty sight!",
-				"Thorax: Perhaps it‚Äôs a virus or new pesticide,\n^perhaps it‚Äôs the larva of foul phorid flies!\n^That‚Äôs making these honeybees all act so strange.\n^Whatever it is, it must certainly change!",
-				"Thorax: Okay, so I don‚Äôt really know what‚Äôs the matter\n^I worry my efforts are nothing but chatter.\n^But how can I sit and do nothing to help?\n^So I‚Äôll post it to Facebook and Twitter and Yelp!")
+				"Thorax: I am the thorax, I speak for the bees.\n^Their fate is uncertain, itís not the beeís knees!\n^Some coloniesí workers have all took to flight!\n^These colonies die then, itís no pretty sight!",
+				"Thorax: Perhaps itís a virus or new pesticide,\n^perhaps itís the larva of foul phorid flies!\n^Thatís making these honeybees all act so strange.\n^Whatever it is, it must certainly change!",
+				"Thorax: Okay, so I donít really know whatís the matter\n^I worry my efforts are nothing but chatter.\n^But how can I sit and do nothing to help?\n^So Iíll post it to Facebook and Twitter and Yelp!")
 		}
 	}
 };
@@ -2261,21 +2261,21 @@ public static var goldman:Object =
 		outside: {
 			dialogue: new Array(
 				"What are you doing here, punk?  Get lost!  I caught it fair and square!",
-				"I won‚Äôt let it go!  Not in a million years!")
+				"I wonít let it go!  Not in a million years!")
 		}
 ,
 		inside: {
 			dialogue: new Array(
 				"Oh, did you come here to terrorize me some more?",
-				"You‚Äôre just siding with the cats because they are cute and furry.")
+				"Youíre just siding with the cats because they are cute and furry.")
 		}
 ,
 		etc: {
 			dialogue: new Array(
 				"What are you doing here, punk?  Get lost!  I caught it fair and square!^  Wauugh!^  Is that--?^  ANOTHER CAT???^  WAUUGHHH!!!",
-				"You... you cleaned up my house...  I‚Äôm touched!  Here, I want to give you my most beautiful possession!",
-				"Young opens and takes the box. Something is inside it!",
-				"Icky: Oh.  Hey Miao.^\n\nMiao: I‚Äôm so glad you‚Äôre safe!^\n\nIcky: Uh... thanks for the hand, Young.",
+				"You... you cleaned up my house...  Iím touched!  Here, I want to give you my most beautiful possession!",
+				"Jon opens and takes the box. Something is inside it!",
+				"Icky: Oh.  Hey Miao.^\n\nMiao: Iím so glad youíre safe!^\n\nIcky: Uh... thanks for the hand, Jon.",
 				"Icky: To be honest, I kind of like sitting in boxes.")
 		}
 	}
@@ -2317,21 +2317,21 @@ public static var miao:Object =
 	FIELDS: {
 		init: {
 			dialogue: new Array(
-				"Oh!!  You are Young, The Chosen One!!!  Omigosh, what an honor!  My name is Miao Xiao Tuan Er, Chosen One-in-training!",
+				"Oh!!  You are Jon, The Chosen One!!!  Omigosh, what an honor!  My name is Miao Xiao Tuan Er, Chosen One-in-training!",
 				"Could I follow you around for a bit to watch a Chosen One in action?",
-				"Hello again, Young!  Can I shadow you today?")
+				"Hello again, Jon!  Can I shadow you today?")
 		}
 ,
 		randoms: {
 			dialogue: new Array(
-				"Miao: Hey, Young‚Ä¶ have you ever stolen anything?",
-				"Miao: I like Mitra... and isn‚Äôt Wares a handsome bike?",
-				"Miao: What‚Äôs that cool stone thing, Young?  Does it make you go back in time?!",
-				"Miao: I‚Äôm starting to get worried about Icky... Young, have you seen a bigger cat around recently? Icky last said he was going to walk around the small forest to the east.",
-				"Miao: Icky said I shouldn‚Äôt go where it's unsafe. I‚Äôll see you later, Young.",
+				"Miao: Hey, JonÖ have you ever stolen anything?",
+				"Miao: I like James... and isnít Wares a handsome bike?",
+				"Miao: Whatís that cool stone thing, Jon?  Does it make you go back in time?!",
+				"Miao: Iím starting to get worried about Icky... Jon, have you seen a bigger cat around recently? Icky last said he was going to walk around the small forest to the east.",
+				"Miao: Icky said I shouldnít go where it's unsafe. Iíll see you later, Jon.",
 				"Miao: Have you ever sat in a bunch of grocery bags?",
-				"Miao: Hey Young, do you think it‚Äôs wrong to do catnip?",
-				"Miao: I bet it must have taken a lot of work to become The Chosen One, huh, Young?")
+				"Miao: Hey Jon, do you think itís wrong to do catnip?",
+				"Miao: I bet it must have taken a lot of work to become The Chosen One, huh, Jon?")
 		}
 ,
 		philosophy: {
@@ -2344,10 +2344,10 @@ public static var miao:Object =
 ,
 		icky: {
 			dialogue: new Array(
-				"Oh.  Hi, Young.",
-				"My name‚Äôs not really Icky.  It‚Äôs Ichabod.",
-				"I hope Miao Xiao Tuan Er hasn‚Äôt been too much trouble.",
-				"See you later, Young.")
+				"Oh.  Hi, Jon.",
+				"My nameís not really Icky.  Itís Ichabod.",
+				"I hope Miao Xiao Tuan Er hasnít been too much trouble.",
+				"See you later, Jon.")
 		}
 	}
 };
@@ -2418,31 +2418,31 @@ public static var generic_npc:Object =
 			dialogue: new Array(
 				"The humidity here is good for your skin, but bad for your hair.",
 				"I like standing here.  These days, people spend the whole summer rushing back and forth between sweltering heat and freezing cold AC.  Those quick temperature changes weaken your bones.",
-				"It‚Äôs like that rotten habit of chewing your ice cubes.  My mother chewed her ice cubes into her late 20s.  Now she‚Äôs got hairline cracks all over her molars.")
+				"Itís like that rotten habit of chewing your ice cubes.  My mother chewed her ice cubes into her late 20s.  Now sheís got hairline cracks all over her molars.")
 		}
 ,
 		second: {
 			dialogue: new Array(
-				"Make sure you change out of those shoes and stuff them with newspapers to dry them out.  Wouldn‚Äôt want to create a breeding ground for bacteria.",
-				"Why do buffets only ever have RED jello cubes?  It‚Äôs like they want us to get cancer.")
+				"Make sure you change out of those shoes and stuff them with newspapers to dry them out.  Wouldnít want to create a breeding ground for bacteria.",
+				"Why do buffets only ever have RED jello cubes?  Itís like they want us to get cancer.")
 		}
 ,
 		bomb: {
 			dialogue: new Array(
 				"Get away from me.",
-				"I‚Äôm serious... leave me alone now.")
+				"Iím serious... leave me alone now.")
 		}
 	}
 	,
 	BLUE: {
 		one: {
 			dialogue: new Array(
-				"I don‚Äôt need your pity, Young.",
-				"Right, just go on living in your happy little world, ‚ÄúChosen One‚Äù...",
-				"You know, Young, friendship is just a trick people play on themselves.  We‚Äôre all assholes, and in the end, we‚Äôre all alone.",
-				"Hah, I knew you hated me, Young.",
-				"I‚Äôm doing fine.",
-				"Of course you don‚Äôt care, no one does.")
+				"I donít need your pity, Jon.",
+				"Right, just go on living in your happy little world, ìChosen Oneî...",
+				"You know, Jon, friendship is just a trick people play on themselves.  Weíre all assholes, and in the end, weíre all alone.",
+				"Hah, I knew you hated me, Jon.",
+				"Iím doing fine.",
+				"Of course you donít care, no one does.")
 		}
 	}
 	,
@@ -2450,10 +2450,10 @@ public static var generic_npc:Object =
 		one: {
 			dialogue: new Array(
 				"I know cities can be dirty and crowded and everything, but I like to come out here and look out over all the lights.",
-				"It's beautiful in its own way.  It‚Äôs not nearly as infinite as the stars, but there is something about its humanness that adds a layer of wonderful complexity.",
+				"It's beautiful in its own way.  Itís not nearly as infinite as the stars, but there is something about its humanness that adds a layer of wonderful complexity.",
 				"Behind every light is a person with hopes and fears and secrets... looking out is both terrifyingly lonely and fiercely personal.",
-				"I think I love every person behind every window.  I love you, people, for being my stars.  I love you no matter how fucked up your life is or how far you think you‚Äôve fallen.  You are lovely for tonight...",
-				"I‚Äôm sorry, I‚Äôm babbling.  Thanks for listening.")
+				"I think I love every person behind every window.  I love you, people, for being my stars.  I love you no matter how fucked up your life is or how far you think youíve fallen.  You are lovely for tonight...",
+				"Iím sorry, Iím babbling.  Thanks for listening.")
 		}
 	}
 	,
@@ -2474,15 +2474,15 @@ public static var generic_npc:Object =
 	CLIFF: {
 		quest_normal: {
 			dialogue: new Array(
-				"Golem: Did you get hit by a boulder on your way up?  Sometimes I throw boulders when I‚Äôm angry.  I‚Äôm sorry if I hit you.",
-				"Golem: My mother always said that if I kept doing it, I‚Äôd run out of mountain to throw.  Back before she was fracked.")
+				"Golem: Did you get hit by a boulder on your way up?  Sometimes I throw boulders when Iím angry.  Iím sorry if I hit you.",
+				"Golem: My mother always said that if I kept doing it, Iíd run out of mountain to throw.  Back before she was fracked.")
 		}
 ,
 		second: {
 			dialogue: new Array(
-				"Golem: When you‚Äôre a rock, you see many generations of people come and go.  You become ancient and wiser than the wisest among men.",
-				"Golem: At least, that‚Äôs the idea.  I broke my binoculars a while back so I haven‚Äôt been able to tell what‚Äôs going on.",
-				"Golem: Actually, I don‚Äôt miss watching people much, it‚Äôs a bore.")
+				"Golem: When youíre a rock, you see many generations of people come and go.  You become ancient and wiser than the wisest among men.",
+				"Golem: At least, thatís the idea.  I broke my binoculars a while back so I havenít been able to tell whatís going on.",
+				"Golem: Actually, I donít miss watching people much, itís a bore.")
 		}
 ,
 		quest_event: {
@@ -2494,7 +2494,7 @@ public static var generic_npc:Object =
 	BEACH: {
 		quest_normal: {
 			dialogue: new Array(
-				"I‚Äôm not a lobster, I‚Äôm a langostino.  The name‚Äôs Hews.",
+				"Iím not a lobster, Iím a langostino.  The nameís Hews.",
 				"Hews: You know what the best part of the ocean is?  Being able to see the horizon.",
 				"Hews: The ocean is like a salty taste of infinity.",
 				"Hews: A crowded beach is robbed of its grace.")
@@ -2503,7 +2503,7 @@ public static var generic_npc:Object =
 		second: {
 			dialogue: new Array(
 				"Hews: Have you heard of the mantis shrimp?  It has 16 photoreceptors that allow it to perceive ultraviolet light.  Can you imagine seeing a wider range of colors?",
-				"Hews: Maybe it would be beautiful.  Then again, we‚Äôve found plenty of ways to hate each other with just the colors we have.")
+				"Hews: Maybe it would be beautiful.  Then again, weíve found plenty of ways to hate each other with just the colors we have.")
 		}
 ,
 		quest_event: {
@@ -2546,19 +2546,19 @@ public static var generic_npc:Object =
 ,
 		bush: {
 			dialogue: new Array(
-				"Rank: Eheheh, silly Young! A broom‚Äôs no tool for cutting bushes!")
+				"Rank: Eheheh, silly Jon! A broomís no tool for cutting bushes!")
 		}
 ,
 		quest_normal: {
 			dialogue: new Array(
 				"Rank: I cut down the bushes for a living.  Sometimes when you cut the bushes you find gold!  Eheheh!",
 				"Rank: The economy has been really struggling under this bush...",
-				"Rank: Sometimes it‚Äôs tough to support the wife and kids on bush cutting--we don‚Äôt always have enough to eat... but we‚Äôve always got a roaring fireplace!  Eheheh!")
+				"Rank: Sometimes itís tough to support the wife and kids on bush cutting--we donít always have enough to eat... but weíve always got a roaring fireplace!  Eheheh!")
 		}
 ,
 		quest_event: {
 			dialogue: new Array(
-				"Rank: Eh? Yes! Someone came by here. Said they were going to an underground labyrinth...I bet they've got a lot of bushes there, eh Young? Eheheh!")
+				"Rank: Eh? Yes! Someone came by here. Said they were going to an underground labyrinth...I bet they've got a lot of bushes there, eh Jon? Eheheh!")
 		}
 ,
 		marvin: {
@@ -3134,7 +3134,7 @@ public static var circus_folks:Object =
 ,
 		after_fight: {
 			dialogue: new Array(
-				"...We have failed to make you pay for your interference.  And yet... you have given us back our chance to be free.  Thank you, Young.  May the Seeing One look upon you in favor once more.")
+				"...We have failed to make you pay for your interference.  And yet... you have given us back our chance to be free.  Thank you, Jon.  May the Seeing One look upon you in favor once more.")
 		}
 	}
 };
@@ -3165,7 +3165,7 @@ public static var wallboss:Object =
 	CROWD: {
 		before_fight: {
 			dialogue: new Array(
-				"So good to see you, Yang.  Been too long.  Still playing those nentendos, I see?")
+				"So good to see you, Yang.  Been too long.  Still playing those nintendos, I see?")
 		}
 ,
 		after_fight: {
@@ -3422,21 +3422,21 @@ public static var card:Object =
 			dialogue: new Array(
 				"I don't mind being watched by the trees.",
 				"Where is she?!",
-				"I will be with you Young, whenever you are alone.",
+				"I will be with you Jon, whenever you are alone.",
 				"Are you an Ookchot?  My mom always warned me about the Dangerous Ookchot.",
-				"Jello there, Young!  So goo to flanly meet you!  Why don't you set for a minute?  I was just pudding on some tea!",
+				"Jello there, Jon!  So goo to flanly meet you!  Why don't you set for a minute?  I was just pudding on some tea!",
 				"Pew, Pew, Pew, Pew, Pew, Pew, Pew, Pew, Pew, Pew, Pew, Pew, Chancel, Pulpit, Altar, Stained Glass Windows...",
 				"Limited time offer! Buy one, get one free - only today!",
 				"Remember the time that you lit a candle when the power was out?",
 				"Mmmm, your pillow was cozy last night.",
 				"This'll teach 'em for calling me the fumi-GAY-tion guy.",
-				"Wares and I make a good team.",
+				"My bicycle is a better friend than Jon.",
 				"I'm the Chosen One-in-training!!!",
 				"Do you ever feel like, no matter what you do, you can't stop the world from dying?",
 				"Beware the forest mushrooms...",
 				"I am sorry.  It is my nature.",
 				"What do you mean, 'Only a rock'??  Rocks can be on cards too, you know!",
-				"Give a man a fish and he will eat for a day.  Teach a man to fish, and he will have bonding times with his son, Jimmy.",
+				"Gee, thanks for shoving me into the ocean Jon. You're a real piece of work!",
 				"Sometimes the answer is taking a walk.",
 				"Why do bats suddenly fly down, every time you're around?",
 				"NO, *YOU* NEED BRACES!",
@@ -3608,7 +3608,7 @@ public static var misc:Object =
 			dialogue: new Array(
 				"You\'re rolling in it!",
 				"Once the property of a famous Bubble Mage.",
-				"If your graphics become scrambled, look at the pakidex entry of an official Pakimon.",
+				"If your graphics become scrambled, look at the pokedex entry of an official Pokemon.",
 				"This heart has no name.",
 				"Please visit the electric monsters\' world.",
 				"A kitty statue. Cute, but useless.",
@@ -3627,7 +3627,7 @@ public static var misc:Object =
 			dialogue: new Array(
 				"Sorry!",
 				"The swap won't work here.",
-				"Young could not muster the strength to use the swap here.")
+				"Jon could not muster the strength to use the swap here.")
 		}
 ,
 		keyblock: {
@@ -3645,7 +3645,7 @@ public static var misc:Object =
 				"\".",
 				"A few words on the broom extension read \"Equip the WIDEN upgrade in the menu to have the broom release harmful dust to the left and right.\"",
 				"A few words on the broom extension read \"Equip the EXTEND upgrade in the menu for the broom to release harmful dust in front of the broom's normal reach.\"",
-				"A note next to the broom extension: \"Hello, Young. Use this SWAP upgrade on two tiles to switch their places. It may be a while before you can use this everywhere, but it should serve you well for the time being.\"",
+				"A note next to the broom extension: \"Hello, Jon. Use this SWAP upgrade on two tiles to switch their places. It may be a while before you can use this everywhere, but it should serve you well for the time being.\"",
 				"YOU FOUND A HEART!!! Maximum Health increased by...zero.",
 				"Goldman: What? It's not there? That shopkeeper must have stolen it!")
 		}
@@ -3692,22 +3692,22 @@ public static var misc:Object =
 ,
 		mitra: {
 			dialogue: new Array(
-				"Hey, Young!",
-				"Are those bike shoes for me?  Wow!  Thanks, Young!  I\'ve been thinking about getting these, since Wares has those pedals where you can clip in bike shoes.  Here, Young, take my boots in exchange!  They have these cool springs that let you jump really high! You press",
+				"Hey, Jon!",
+				"Are those bike shoes for me?  Wow!  Thanks, Jon!  I\'ve been thinking about getting these, since Wares has those pedals where you can clip in bike shoes.  Here, Jon, take my boots in exchange!  They have these cool springs that let you jump really high! You press",
 				"to jump with them on!",
-				"Hi Young!  Notice anything new? ^... ^... Oh, well, I got new biking shoes, see!  They clip into Wares' pedals.  Since I'll no longer be needing my old boots, I want you to have them, Young!  They have these cool springs that let you jump really high! You press",
+				"Hi Jon!  Notice anything new? ^... ^... Oh, well, I got new biking shoes, see!  They clip into Wares' pedals.  Since I'll no longer be needing my old boots, I want you to have them, Jon!  They have these cool springs that let you jump really high! You press",
 				"to jump with them on!",
 				"Alright, take care!",
 				"Go on, try them out!  ...They're not THAT smelly.",
 				"Cool, huh?",
-				"Wow, are those the biking shoes from Finty's shop?  You're giving them to me?  Thanks, Young, I really appreciate it!  Here, try out my old shoes in return--I think you'll find them really useful!  There's an engraving on the shoes that says \"Press",
+				"Wow, are those the biking shoes from Finty's shop?  You're giving them to me?  Thanks, Jon, I really appreciate it!  Here, try out my old shoes in return--I think you'll find them really useful!  There's an engraving on the shoes that says \"Press",
 				"to jump\".  I've never understood that, though, because there's no \"",
 				"\" anywhere on the shoes...")
 		}
 ,
 		tradenpc: {
 			dialogue: new Array(
-				"Finty: Welcome, welcome, my friend Young!  The name's Prasandhoff--Finty Prasandhoff!  Take a look around at my shop and see if anything catches your eye!",
+				"Finty: Welcome, welcome, my friend Jon!  The name's Prasandhoff--Finty Prasandhoff!  Take a look around at my shop and see if anything catches your eye!",
 				"Finty: I still appreciate that box!",
 				"Finty: Ah, a box! Thank you so much! Now I can carry all my inventory home at night and back in the morning!",
 				"Wait a minute...it's not here! What happened to it? Well, here, let me ease your wounds instead!",
@@ -3730,7 +3730,7 @@ public static var misc:Object =
 				"MUSIC/SFX\n---------\nMelos, using REAPER\nand number of free\nsoundfonts.\n\n\n\nDIALOGUE\n--------------\nMostly Marina\n",
 				"STORY\n-----\nBoth\nJapanese Localization:\nKakehashi Games",
 				"Massive thanks to\nour testers, who\nsuffered so you\ndon't have to!\n--------------\n\nMarina, for suffering\nthrough most of the\ninitial bugs.\n\nEtan, for constant\nsupport since the\nbeginning, with\nmany bugs found,\nand the third human\nto play through most\nof the game.",
-				"Olivia - thanks, sis!\n\nRunnan, Nick Reineke,\nEmmett, Poe, AD1337,\n Dennis, Andrew,\nAndrew MM\n Carl, Max, Amidos,\nLyndsey, Nathan\n",
+				"O - thanks, sis!\n\nRunnan, Nick Reineke,\nEmmett, Poe, AD1337,\n Dennis, Andrew,\nAndrew MM\n Carl, Max, Amidos,\nLyndsey, Nathan\n",
 				"Melos would like\nto thank:\n\nMom and Dad, for\ntheir constant support\nin this endeavor.\n\nS\n\nMany TIGSourcers and\nother devs met\nalong the way!\n\nMarina, for making\nthis game possible,\nand improving it in\ncountless ways.",
 				"Adobe, Adam Saltsman,\nFlashDevelop devs,\nREAPER devs,\nDAME creator,\nDesura, Gamersgate,\nIndieDB, TIGSource\n\n\nAnd my other friends\nwho have shown their\nsupport. (Thanks!)\n\nAnd last, but\nnot least,\nTina Chen,\nlongtime friend,\nfor both support and\nintroducing me to Marina.",
 				"Marina would like\nto thank...\n\nColin Meloy, for\nexpanding\nmy vocabulary\n\nTsugumo, for\n\"So You Want to\nBe a Pixel Artist?\"\n\nMy family,\nfor support and food.\n\nDaniel, for being an\n\"indie game dev\"\nwith me growing up.",
@@ -3745,10 +3745,10 @@ public static var misc:Object =
 				"Rabbit\n\n\nIcky\n\n\nShopkeeper\n\nMiao Xiao Tuan Er\n\nRank\n\nGoldman",
 				"Thorax\n\nJames\n\nMushroom\n\nCrickson\n\nGolem\n\nSuburbanites",
 				"Chaser\n\n\nEntities\n\n\nSpace Faces\n\n\Cube Kings",
-				"Young\n\n\nMitra\n\n\nSage\n\n\nBriar",
+				"Jon\n\n\nJames\n\n\nSage\n\n\nBriar",
 				"And we'd like to\nthank YOU!\nFor playing our game!\n\n\nWe hope you\nenjoyed it.",
 				"\n\n\n\n\n\n\n\n",
-				"Now you have\nthe ability\nto explore Young's\nworld with (almost) no\nlimitations, via \nthe swap.\n")
+				"Now you have\nthe ability\nto explore Jon's\nworld with (almost) no\nlimitations, via \nthe swap.\n")
 		}
 ,
 		elevator: {
