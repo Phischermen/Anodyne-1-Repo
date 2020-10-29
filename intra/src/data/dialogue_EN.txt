@@ -1817,9 +1817,3 @@ end npc
 
 # Tell the python script you're done.
 DONE
-
-
-[a]Your character really loves its bicycle
-[b]James first appearance
-[c]Second James encounter
-[d]More James dialog

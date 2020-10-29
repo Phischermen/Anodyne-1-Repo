@@ -172,7 +172,7 @@ public static var sage:Object =
 		one: {
 			dialogue: new Array(
 				"Sage: Jon... thiws iws my finaw wawning... wait, who iws thawt?",
-				"James: My name is James, and this is my electric bike, Wares![a]",
+				"James: My name is James, and this is my electric bike, Wares!",
 				"Sage: I didn’t awsk the nawme of youw bicycwe, whawt awe uwu doing hewe?  i don’t wemembew uwu.",
 				"James: I’m here to help my friend, Jon..",
 				"Sage: Jon doesn’t have fwiends. Jon doesn’t even have wayne. Awnd if you’we egging him own, then i wawnt uwu out of my wowwd!",
@@ -593,7 +593,7 @@ public static var mitra:Object =
 				"HEADS UP!",
 				"Sorry about that... I was going way too fast.  I almost crushed my most handsome boi! ... Huh?  You want to protect Wayne from the Evil Home Depot?  ...  ^Nice.",
 				"I’ve just been out and about, peddling my wares.... What?  No, I’m not a salesman.  Wares is the name of my very expensive electric bicycle!",
-				"Well, maybe we’ll run into each other again sometime.  I’ll text Wayne and let you know if I hear [b]anything. Don't get your hopes up though. He doesn't like anyone. Especially me.")
+				"Well, maybe we’ll run into each other again sometime.  I’ll text Wayne and let you know if I hear anything. Don't get your hopes up though. He doesn't like anyone. Especially me.")
 		}
 	}
 	,
@@ -617,7 +617,7 @@ public static var mitra:Object =
 ,
 		quest_event: {
 			dialogue: new Array(
-				"James: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.[c]")
+				"James: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.")
 		}
 ,
 		game_hints: {
@@ -678,7 +678,7 @@ public static var mitra:Object =
 			dialogue: new Array(
 				"Did you find that guy who was looking for something in the mountains?",
 				"Do you know what my bike’s surname is?  …Waldo!  Get it?  Wares Waldo!  ...Just kidding, bicycles don’t have surnames.",
-				"Do you think I should get a U-Lock?  I’d hate to tie up Wares like that, but you do hear a lot [d]about stolen bikes these days...",
+				"Do you think I should get a U-Lock?  I’d hate to tie up Wares like that, but you do hear a lot about stolen bikes these days...",
 				"What does Home Depot want with Wayne?  Isn't he too short to work there?",
 				"I wonder why I haven't heard anything about The Home Depot coming.  I guess most people in the land are just caught up in their own daily struggles.",
 				"Hey Jon, I just wanted to tell you... your hair is awesome. Unlike your face. ^ooooooooooooaooaoaoaoaah")
