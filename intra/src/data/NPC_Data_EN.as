@@ -106,8 +106,8 @@ public static var briar:Object =
 			dialogue: new Array(
 				"Wayne: Dude, Jon.",
 				"Wayne: Kick your feet.  Move your arms.  Jeez, you wouldn’t last a minute without me!",
-				"Wayne: Well, come on, let’s go get a sandwich or something.",
-				"Sage: You... you did adequately.  Until we meet again.")
+				"Wayne: Well, come on, let’s go get some grillies and cummies.",
+				"Sage: Uwu... uwu did adequatewy. Untiw we meet again.")
 		}
 	}
 };
@@ -171,24 +171,24 @@ public static var sage:Object =
 ,
 		one: {
 			dialogue: new Array(
-				"Sage: Jon... this is my final warning... wait, who is that?",
-				"James: My name is James, and this is my bike, Wares!",
-				"Sage: I didn’t ask the name of your bicycle, what are you doing here?  I don’t remember you.",
+				"Sage: Jon... thiws iws my finaw wawning... wait, who iws thawt?",
+				"James: My name is James, and this is my electric bike, Wares![a]",
+				"Sage: I didn’t awsk the nawme of youw bicycwe, whawt awe uwu doing hewe?  i don’t wemembew uwu.",
 				"James: I’m here to help my friend, Jon..",
-				"Sage: Jon doesn’t have friends.  Jon doesn’t even have Wayne.  And if you’re egging him on, then I want you out of my world!",
+				"Sage: Jon doesn’t have fwiends. Jon doesn’t even have wayne. Awnd if you’we egging him own, then i wawnt uwu out of my wowwd!",
 				"James: What do you mean?  Wares and I--",
-				"Sage: SHUT UP ABOUT YOUR STUPID BICYCLE!!!")
+				"Sage: SHUT UP ABOUWT YOUW STUPID EWECTWIC BICYCWE!!!")
 		}
 ,
 		hit: {
 			dialogue: new Array(
-				"Sage: ...",
-				"James: Jon!  Are you okay?  That was a beautiful thing you just did... You go on and finish this final punk-ass area!  We know you can do it!",
+				"Sage: …^uwu",
+				"James: Jon!  Are you okay?  That was a beautiful thing you just did... You go on and finish this final punk-ass area!  REEEEEEEEEEE!",
 				"James: Wares!!!",
 				"James: Wares...",
 				"James: Look, mysterious hooded character, I don’t know who you think you are, but why don’t you just leave us alone?",
-				"Sage: You think you’re Jon’s friend because you’ll lie to him and tell him that deep down he’s just perfect and everything will work out.  Well, if that’s what you want, FINE.  Get out of my face, Jon.",
-				"Sage: Go talk to your \"friend\".",
+				"Sage: Uwu think you’we Jon’s fwiend because you’ww wie tuwu him awnd teww him thawt deep down he’s juwst pewfect awnd evewything wiww wowk out. Weww, if that’s whawt uwu wawnt, FINE. Get out of my face, Jon.",
+				"Sage: Go tawk to youw \"fwiend\".",
 				"James: We're just doing the best we can...")
 		}
 	}
@@ -196,10 +196,10 @@ public static var sage:Object =
 	NEXUS: {
 		enter_nexus: {
 			dialogue: new Array(
-				"Cloaked Man: Well, it’s about time.  Er...^I mean...^ Greetings, Jon!  I am Sage, the Village Elder.  You have been summoned here because The Home Depot has spread across The Land.  The Home Depot seeks Wayne Hamilton, to use his power for evil.  You must reach it first. You must protect Wayne.",
-				"Enter the active portal on your left to begin your quest.",
-				"*Sigh* it doesn’t bode well that you’re still dallying about here.  Enter the portal to begin your quest.  Wayne and, by extension, the world are in dire need!",
-				"Just go in the damn door!")
+				"Cloaked Man: Weww, it’s abouwt time. Ew...^i mean...^ gweetings, Jon!  I am sage, the viwwage ewdew. Uwu have bewn summoned hewe because the Home Depot has spwead acwoss The Wand (owo for The Land). The Home Depot seeks Wayne Hamilton, tuwu use hiws powew fow eviw. Uwu must weach iwt fiwst. Uwu must pwotect Wayne.",
+				"Entew the active powtaw own youw weft tuwu begin youw quest.",
+				"*Sigh* Iwt doesn’t bode weww thawt you’we stiww dawwying abouwt hewe. Entew the powtaw tuwu begin youw quest. Wayne awnd, by extension, the wowwd awe in diwe need!",
+				"Juwst gow in the damn doow!")
 		}
 ,
 		after_ent_str: {
@@ -232,61 +232,61 @@ public static var sage:Object =
 	OVERWORLD: {
 		bedroom_entrance: {
 			dialogue: new Array(
-				"Sage: Soon your skills will be put to the test, Jon.  In order to make it through this temple alive, you will need both strength and intellect.  And I assume that by this point you have found a weapon?",
-				"Wha-??  ... I-I mean...  Yes of course... a broom!  Er... just as was foretold in The Legend...",
-				"*grumble grumble* ... of all the incompetent--Hey!  What are you still standing here for?",
-				"Keep your wits about you, Jon.")
+				"Sage: Soon youw skiwws wiww be put tuwu the test, Jon. In owdew tuwu make iwt thwough thiws tempwe awive, uwu wiww need both stwength awnd intewwect. Awnd i assume thawt by thiws point uwu have found a weapon?",
+				"Wha-??... I-i mean... Yes of couwse... a bwoom!  ew... juwst as was fowetowd in the wegend...",
+				"*gwumbwe gwumbwe*... of aww the incompetent--hey!  whawt awe uwu stiww standing hewe fow?",
+				"Keep youw wits about uwu, Jon.")
 		}
 	}
 	,
 	BEDROOM: {
 		after_boss: {
 			dialogue: new Array(
-				"Sage: At this point, you are still weak. If you hope to protect Wayne from The Home Depot, you must face your fears.  The card you will find in this chest, and others like it, are symbols of your growth, so acquiring them is absolutely vital to your quest.",
-				"That key will also play an important role in your quest. You must seek out other keys, as well.  Select the map on the menu screen to teleport back to the temple's entrance, and continue your heroic quest.",
-				"Travel East and South through the temple grounds... you will find a use for that key.",
-				"What, do you want a piggy back ride to the gate or something??")
+				"Sage: At thiws point, uwu awe stiww weak. If uwu hope tuwu pwotect Wayne fwom the Home Depot, uwu must face youw feaws. The cawd uwu wiww find in thiws chest, awnd othews wike iwt, awe symbows of youw gwowth, so acquiwing thewm iws absowutewy vitaw tuwu youw quest.",
+				"Thawt key wiww awso pway an impowtant wowe in youw quest. Uwu must seek out othew keys, as weww. Sewect the map own the menu scween tuwu tewepowt bawck tuwu the tempwe's entwance, awnd continue youw hewoic quest.",
+				"twavew east awnd south thwough the tempwe gwounds... uwu wiww find a use fow thawt key.",
+				"Whawt, duwu uwu wawnt a piggy bawck wide tuwu the gate ow something??")
 		}
 	}
 	,
 	TERMINAL: {
 		before_fight: {
 			dialogue: new Array(
-				"Sage: Why won’t you listen to me?!  If you rush into this like an idiot, you’ll only endanger Wayne, The Land, and everything I’ve worked for!  I’m sorry Jon, but if you won’t listen to me, then I’ll have to convince you another way...")
+				"Sage: Why won’t uwu wisten tuwu me?! If uwu wush intwo thiws wike an idiot, you’ww onwy endangew Wayne, the Wand, awnd evewything i’ve wowked fow!  i’m sowwy jon, but if uwu won’t wisten tuwu me, then i’ww have tuwu convince uwu anothew way^*unzips pants*...")
 		}
 ,
 		after_fight: {
 			dialogue: new Array(
-				"Sage: Jon...  This is not how I mean things to be... I meant for you to become a better person.  I meant for you to be able to help Wayne.  But all of this is just a silly game...  I can’t stop you from reaching Wayne.  Just remember what I said when it all goes to hell.")
+				"Sage: Jon... Thiws iws nowt how i mean things tuwu be... I meant fow uwu tuwu become a bettew pewson. I meant fow uwu tuwu be abwe tuwu hewp Wayne. But aww of thiws iws juwst a siwwy gawme... I can’t stowp uwu fwom weaching Wayne. Juwst wemembew whawt i said whewn iwt aww goes tuwu heww.")
 		}
 ,
 		entrance: {
 			dialogue: new Array(
-				"Sage: Hello, Jon.  When you have become a stronger and wiser individual, this path will lead you to Wayne.",
-				"Sage: You’re not ready Jon, first you must face more trials in The Land.",
-				"Sage: You have made progress, Jon, but you must collect at least 36 cards to pass this gate.")
+				"Sage: Hewwo, jon. Whewn uwu have become a stwongew awnd wisew individuaw, thiws path wiww wead uwu tuwu wayne.",
+				"Sage: You’we nowt weady jon, fiwst uwu must face mowe twiaws in the wand.",
+				"Sage: Uwu have made pwogwess, Jon, but uwu must cowwect at weast 36 cawds tuwu pass thiws gate.")
 		}
 ,
 		etc: {
 			dialogue: new Array(
-				"Sage: Oh... uh... you have at least 36 cards?  But I am not certain that you are ready for the true test.  In fact, look, we were reading this gate wrong, you actually need...\n...\n........\n92 cards to pass this gate, not 36!",
-				"Sage: Jon, don’t go there, you’re not ready yet!  Think of Wayne!  The Land!  All of this will be for nothing if you are not ready!")
+				"Sage: Oh... uh... uwu have at weast 36 cawds?  but i am nowt cewtain thawt uwu awe weady fow the twue test. In fact, wook, we wewe weading thiws gate wwong, uwu actuawwy need...\n...\n........\n92 cawds tuwu pass thiws gate, nowt 36!",
+				"Sage: Jon, don’t gow thewe, you’we nowt weady yet!  think of wayne!  the wand!  aww of thiws wiww be fow nothing if uwu awe nowt weady!")
 		}
 	}
 	,
 	REDCAVE: {
 		one: {
 			dialogue: new Array(
-				"Sage: Excellent work, Jon.  You had to conquer not only this monster but also your own fears to prevail!!!",
-				"Sage: Of course, you still have a long way to go.  Have you been exploring The Land?")
+				"Sage: Excewwent wowk, Jon. Uwu had tuwu conquew nowt onwy thiws monstew but awso youw own feaws tuwu pwevaiw!!!",
+				"Sage: Of couwse, uwu stiww have a wong way tuwu gow. Have uwu bewn expwowing The Wand?")
 		}
 	}
 	,
 	CROWD: {
 		one: {
 			dialogue: new Array(
-				"Sage: Well done, Jon. However, there are still trials to face. Do not let your guard down.",
-				"Sage: Have you found all of the keys yet, Jon? If not, go to the beach.")
+				"Sage: Weww done, Jon. Howevew, thewe awe stiww twiaws tuwu face. Duwu nowt wet youw guawd down.",
+				"Sage: Have uwu found aww of the keys yet, Jon? if nowt, gow tuwu the beach.")
 		}
 	}
 };
@@ -521,7 +521,7 @@ public static var happy_npc:Object =
 ,
 		gold: {
 			dialogue: new Array(
-				"Did you know this place is made of gold?  Like actual gold!  We could run away together and live off this brick right here!  Wahahahaha!",
+				"Did you know this place is made of gold?  Like actual gold!  We could run away together and live off this brick right here!  Wah wah wha!",
 				"Seriously, why are you just standing there?  Help me jack this brick!")
 		}
 ,
@@ -592,8 +592,8 @@ public static var mitra:Object =
 			dialogue: new Array(
 				"HEADS UP!",
 				"Sorry about that... I was going way too fast.  I almost crushed my most handsome boi! ... Huh?  You want to protect Wayne from the Evil Home Depot?  ...  ^Nice.",
-				"I’ve just been out and about, peddling my wares.... What?  No, I’m not a salesman.  Wares is the name of my bicycle!",
-				"Well, maybe we’ll run into each other again sometime.  I’ll text Wayne and let you know if I hear anything. Don't get your hopes up though. He doesn't like anyone, and especially not me.")
+				"I’ve just been out and about, peddling my wares.... What?  No, I’m not a salesman.  Wares is the name of my very expensive electric bicycle!",
+				"Well, maybe we’ll run into each other again sometime.  I’ll text Wayne and let you know if I hear [b]anything. Don't get your hopes up though. He doesn't like anyone. Especially me.")
 		}
 	}
 	,
@@ -609,15 +609,15 @@ public static var mitra:Object =
 	FIELDS: {
 		init: {
 			dialogue: new Array(
-				"Remember me?  I forgot to introduce myself the last time, I only introduced my bicycle, Wares.  My name is James.",
-				"Remember me?  I forgot to introduce myself the last time, I’m James, and this fine young bicycle is named Wares.",
-				"James: So how have you been, Jon?  You wanna play some games later tonight with Kevin?^ Actually forget about Kevin, he's a stinky furry and I don't like him anymore. Why don't you push him into the Ocean next time you see him.",
-				"James: See you around, Jon!")
+				"Checkout my sic bicycle. I named it Wares.",
+				"I forgot to introduce my fine young bicycle named Wares. Its electrical and very expensive",
+				"James: So how have you been, Jon?  You wanna play some games later tonight with Kevin?^ Actually forget about Kevin, he's a stinky furry and I don't like him anymore. Why don't you push him into the ocean next time you see him.",
+				"James: See you around, Jon. and remember, every kiss begins with penis!")
 		}
 ,
 		quest_event: {
 			dialogue: new Array(
-				"James: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.")
+				"James: Hey, I just remembered - someone said they were trying to find something earlier. I wasn't sure what they were talking about, so they said they were going to the mountains - ran off in a hurry.[c]")
 		}
 ,
 		game_hints: {
@@ -662,7 +662,7 @@ public static var mitra:Object =
 				"James: Hey Jon, looking for a card?\nHave you looked around the area on the perimeter of that couple's large pit?",
 				"James: Hey Jon, looking for a card?\nThere's this couple that like to hang around a pit. They must be hiding something.",
 				"James: Hey Jon, looking for a card?\nSometimes there are things hidden across chasms - especially in mountain caves!",
-				"James: Hey Jon, looking for a card?\nHave you scoured the highest parts of the mountain cave?",
+				"James: Hey Jon, looking for a card?\nHave you scoured the highest parts of your mom’s ass?",
 				"James: Hey Jon, looking for a card?\nIs there anything in the depths of that mountain cave?",
 				"James: Hey Jon, looking for a card?\nThat colorful cube in that weird place - it has probably got something!",
 				"James: Hey Jon, looking for a card?\nHave you talked to that grayscale cube in that wild-lookin' area? Maybe it knows something.",
@@ -678,10 +678,10 @@ public static var mitra:Object =
 			dialogue: new Array(
 				"Did you find that guy who was looking for something in the mountains?",
 				"Do you know what my bike’s surname is?  …Waldo!  Get it?  Wares Waldo!  ...Just kidding, bicycles don’t have surnames.",
-				"Do you think I should get a U-Lock?  I’d hate to tie up Wares like that, but you do hear a lot about stolen bikes these days...",
+				"Do you think I should get a U-Lock?  I’d hate to tie up Wares like that, but you do hear a lot [d]about stolen bikes these days...",
 				"What does Home Depot want with Wayne?  Isn't he too short to work there?",
 				"I wonder why I haven't heard anything about The Home Depot coming.  I guess most people in the land are just caught up in their own daily struggles.",
-				"Hey Jon, I just wanted to tell you... your hair is awesome.")
+				"Hey Jon, I just wanted to tell you... your hair is awesome. Unlike your face. ^ooooooooooooaooaoaoaoaah")
 		}
 	}
 };
@@ -756,28 +756,28 @@ public static var statue:Object =
 	NEXUS: {
 		enter_nexus: {
 			dialogue: new Array(
-				"Statue: The Village Elder in name only, for he is neither.")
+				"Statue: The Village Elder in name only, for he is neither.^ He is in fact the Village Degenerate like Kevin.")
 		}
 	}
 	,
 	OVERWORLD: {
 		bedroom_entrance: {
 			dialogue: new Array(
-				"Statue: I’ve seen a broom in a legend... it was on the map of a janitor closet.")
+				"Statue: I’ve seen a broom in a legend... it was on the map of a janitor closet.^ I’ve also seen a Squeegee wielded by a princess in the legend.")
 		}
 	}
 	,
 	BEDROOM: {
 		after_boss: {
 			dialogue: new Array(
-				"Statue: Acquiring cards is vital to your quest.  Acquiring cards is also vital for other quests, such as earning credit or purchasing alcoholic beverages.")
+				"Statue: Acquiring cards is vital to your quest.  Acquiring cards is also vital for other quests, such as earning credit or purchasing alcoholic beverages. ^I’ll bet you Kevin knows a thing or two about purchasing alcoholic beverages.")
 		}
 	}
 	,
 	REDCAVE: {
 		one: {
 			dialogue: new Array(
-				"Statue: Excellent work, Sage.  You had to conquer not only your temperament but also your own self-respect to deliver such a cheesy line!!!")
+				"Statue: Excellent work, Sage.  You had to conquer not only your temperament but also your own self-respect to deliver such a cheesy line!!!^ If only Kevin had self-respect for his body and did not masturbate 4 times every morning.")
 		}
 	}
 	,
@@ -1206,7 +1206,7 @@ public static var rock:Object =
 ,
 		three: {
 			dialogue: new Array(
-				"Rock: An explorer is you!",
+				"Rock: What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You’re fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that’s just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little “clever” comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn’t, you didn’t, and now you’re paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You’re fucking dead, kiddo.",
 				"Rock: Please don't go south. It's under construction.")
 		}
 ,
@@ -2452,7 +2452,7 @@ public static var generic_npc:Object =
 				"I know cities can be dirty and crowded and everything, but I like to come out here and look out over all the lights.",
 				"It's beautiful in its own way.  It’s not nearly as infinite as the stars, but there is something about its humanness that adds a layer of wonderful complexity.",
 				"Behind every light is a person with hopes and fears and secrets... looking out is both terrifyingly lonely and fiercely personal.",
-				"I think I love every person behind every window.  I love you, people, for being my stars.  I love you no matter how fucked up your life is or how far you think you’ve fallen.  You are lovely for tonight...",
+				"I think I love every person behind every window.  I love you, people, for being my stars.  I love you no matter how messed up your life is or how far you think you’ve fallen.  You are lovely for tonight...",
 				"I’m sorry, I’m babbling.  Thanks for listening.")
 		}
 	}
@@ -2497,7 +2497,8 @@ public static var generic_npc:Object =
 				"I’m not a lobster, I’m a langostino.  The name’s Hews.",
 				"Hews: You know what the best part of the ocean is?  Being able to see the horizon.",
 				"Hews: The ocean is like a salty taste of infinity.",
-				"Hews: A crowded beach is robbed of its grace.")
+				"Hews: A crowded beach is robbed of its grace.",
+				"Hews: If you haven’t already, push your best friend Kevin into the ocean and kill him.")
 		}
 ,
 		second: {
@@ -2515,22 +2516,22 @@ public static var generic_npc:Object =
 	FOREST: {
 		quest_normal: {
 			dialogue: new Array(
-				"James: Berries are a good kind of food.  I like berries.",
-				"James: Please make sure not to defecate on the berries.",
-				"James: So far I have had sexual intercourse 18 times this season.  Also, I have eaten 389 pawfuls of berries.",
-				"James: Do you have any berries for James?")
+				"Boogey: Berries are a good kind of food.  I like berries.",
+				"Boogey: Please make sure not to defecate on the berries.",
+				"Boogey: So far I have had sexual intercourse 18 times this season.  Also, I have eaten 389 pawfuls of berries.",
+				"Boogey: Do you have any berries for Boogey?")
 		}
 ,
 		second: {
 			dialogue: new Array(
-				"James: I wrote a poem:\n^I like to eat berries\n^They make me merry\n^How much do I like berries?\n^I would have to say very!",
-				"James: Do you like blueberries or raspberries more?",
-				"James: Do you have any berries for James?")
+				"Boogey: I wrote a poem:\n^I like to eat berries\n^They make me merry\n^How much do I like berries?\n^I would have to say very!",
+				"Boogey: Do you like blueberries or raspberries more?",
+				"Boogey: Do you have any berries for Boogey?")
 		}
 ,
 		quest_event: {
 			dialogue: new Array(
-				"James: Someone came by. They did not want berries. Went to southeast part of lake to the west.")
+				"Boogey: Someone came by. They did not want berries. Went to southeast part of lake to the west.")
 		}
 	}
 	,
@@ -2583,7 +2584,7 @@ public static var generic_npc:Object =
 				"Bob: ... I suppose you only get better by doing... But... if you do something wrong, are you just getting better at doing it wrong?",
 				"Bob: A real man never cries... well, maybe he lets a single tear slide back from the corner of his eye across his sun-hardened face as he rides his bad, bad, Harley across the wind-swept Mohave desert wearing no helmet or goggles. But he never cries.",
 				"Bob: This game was created by an infinite number of monkeys working on an infinite number of typewriters.",
-				"Bob: I miss James...")
+				"Bob: I miss Boogey...")
 		}
 ,
 		electric: {
@@ -3170,7 +3171,7 @@ public static var wallboss:Object =
 ,
 		after_fight: {
 			dialogue: new Array(
-				"Jesus, Yon, when are you just going to grow up?  You know, you're going to have to learn to deal with people sooner or later.")
+				"Jesus, Jon, when are you just going to grow up?  You know, you're going to have to learn to deal with people sooner or later.")
 		}
 	}
 };
@@ -3547,9 +3548,9 @@ public static var misc:Object =
 			dialogue: new Array(
 				"Items",
 				"Normal",
-				"Swap",
-				"Extend",
-				"Widen",
+				"Swap (spit)",
+				"Extend (my dick)",
+				"Widen (my ass)",
 				"A pair of spring-loaded shoes - press",
 				"to jump!",
 				"A pair of shoes for biking.",
