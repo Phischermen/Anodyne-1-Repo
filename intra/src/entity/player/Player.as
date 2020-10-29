@@ -382,7 +382,13 @@ package entity.player
 		public static var Player_mobile_timer:Number = 0;
 		public static var Player_mobile_angle:Number = 0;
 		override public function update():void {
-			
+			//Hacks for Jon
+			if (FlxG.keys.justPressed("H")){
+				health_bar.modify_health(20);
+			}
+			if (FlxG.keys.justPressed("F")){
+				Registry.FUCK_IT_MODE_ON = !Registry.FUCK_IT_MODE_ON;
+			}
 			if (Intra.is_mobile) {
 				if (Player_mobile_timer > 0) {
 					mobile_current.alpha = 0.9;
