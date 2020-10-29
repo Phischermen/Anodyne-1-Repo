@@ -38,7 +38,7 @@ package data
 		
 		[Embed (source = "../../../mp3/mitra.mp3")] public static var Mitra_Song:Class;
 		public var MITRA:FlxSound = new FlxSound();
-		private var MITRASAMPLES:int = 2290176; //checked 9-15-12
+		private var MITRASAMPLES:int = 6931584; //checked 9-15-12
         
         [Embed (source = "../../../mp3/bedroom.mp3")] public  static var Bedroom_Song:Class; //Bedroom
         public  var BEDROOM:FlxSound = new FlxSound();
@@ -59,7 +59,7 @@ package data
 		///*
 		[Embed (source = "../../../mp3/beach.mp3")] public static var Beach_Song:Class; 
 		public var BEACH:FlxSound = new FlxSound();
-		private var Beach_Samples:int = 3479040;
+		private var Beach_Samples:int = 19449688;
 		
 		
 		
@@ -156,7 +156,7 @@ package data
 		
 		[Embed (source = "../../../mp3/ending.mp3")] public static var Ending_Song:Class;
 		public var ENDING:FlxSound = new FlxSound();
-		private var ENDINGSAMPLES:int = 15323054;
+		private var ENDINGSAMPLES:int = 9643392;
 		
 		[Embed (source = "../../../mp3/briar-fight.mp3")] public static var BriarFight_Song:Class;
 		public var BRIARFIGHT:FlxSound = new FlxSound();
